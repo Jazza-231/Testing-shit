@@ -2,4 +2,4 @@ Stuff for me playing around. I swear I can code better stuff than this im not st
 
 [Calculator project](https://jazza-231.github.io/Testing-shit/Calc/)
 
-[video player project](https://jazza-231.github.io/Testing-shit/Video%20player/)
+[Video player project](https://jazza-231.github.io/Testing-shit/Video%20player/)
