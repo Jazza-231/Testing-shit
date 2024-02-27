@@ -1,2 +1,2 @@
 // content.js
-document.getElementById("BtnSendEmail").click();
+document.getElementById("BtnSendEmail")?.click();
