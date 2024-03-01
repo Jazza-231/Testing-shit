@@ -8,6 +8,10 @@
     {
       "matches": ["*://sms.tafe.wa.edu.au/*"],
       "js": ["content.js"]
+    },
+    {
+      "matches": ["*://blackboard.northmetrotafe.wa.edu.au/*"],
+      "js": ["content2.js"]
     }
   ]
 }
