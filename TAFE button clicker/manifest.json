@@ -6,7 +6,7 @@
   "permissions": ["activeTab"],
   "content_scripts": [
     {
-      "matches": ["*://sms.tafe.wa.edu.au/*"],
+      "matches": ["*://nmtafe.t1cloud.com/*"],
       "js": ["content.js"]
     },
     {
